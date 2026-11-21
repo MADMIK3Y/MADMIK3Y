@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hey, I'm Mike 👋
 
 ### 🛠️ Problem Solver | Data Analytics Student | Aspiring Data Engineer
